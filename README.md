@@ -17,14 +17,14 @@ The project is structured into clean, logical packages to avoid tight coupling a
 
 ---
 
-## 🚀 Getting Started / Instructions
+## Getting Started / Instructions
 1. Open the project in IntelliJ IDEA or any Java IDE.
 2. Ensure the packages `background` and `facade` are located inside the `src` directory.
 3. Run the `Main.java` class to see the simulation of successful and rejected loan applications processed through the Facade.
 
 ---
 
-## 🧼 Clean Code Principles
+## Clean Code Principles
 
 In accordance with the assignment requirements, the following 5 Clean Code principles are implemented and justified in this project:
 
