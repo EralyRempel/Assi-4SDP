@@ -38,7 +38,6 @@ In accordance with the assignment requirements, the following 5 Clean Code princ
 Description: The Facade class strictly focuses on coordination and workflow orchestration, whereas each subsystem class handles only its specific domain logic (e.g., fraud checking or contract generation).
 
 Code Example:
-
 Java
 // FraudDetector handles ONLY security validation, leaving scoring and accounting to other classes
 public class FraudDetector {
